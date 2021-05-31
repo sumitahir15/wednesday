@@ -85,7 +85,7 @@ class Header extends React.Component {
 					/>
 
 					<Button onClick={() => startSearch(searchText, searchMedia)}>
-						<i className="material-icons" >search</i>
+						search
 					</Button>
 				</ItunesForm>
 			</Content>
